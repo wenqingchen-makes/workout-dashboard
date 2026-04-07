@@ -1,0 +1,43 @@
+{
+  "dashboard_title": "Workout",
+  "annual_target": 250,
+  "github_url": "https://github.com/wenqingchen-makes/workout-dashboard",
+  "categories": {
+    "Pilates & Yoga": {
+      "keywords": ["pilates", "reformer", "yoga", "moreyoga", "barre", "flow ldn", "tempo pilates", "vinyasa", "hot yoga", "strength pilates", "chill"],
+      "color": "#2D6A4F"
+    },
+    "Ride": {
+      "keywords": ["ride"],
+      "color": "#1A3A5C"
+    },
+    "Tennis": {
+      "keywords": ["tennis", "court", "🎾", "网球"],
+      "color": "#B5451B"
+    },
+    "Gym": {
+      "keywords": ["gym", "bodypump", "bodycombat", "hyrox", "strength & conditioning", "functional fitness", "boxfit", "power pump", "studio strength", "crossfit", "健身房", "运动", "wicked shapes", "body conditioning", "circuit", "fantastic physiques", "blockhouse"],
+      "color": "#4A4A4A"
+    },
+    "Hiking": {
+      "keywords": ["hiking", "hike", "徒步"],
+      "color": "#1D6FA4"
+    },
+    "Dance": {
+      "keywords": ["zumba", "dance", "salsa", "fitbounce", "step aerobics", "legs bums", "legs, bums", "bums and tums"],
+      "color": "#6B4FA0"
+    },
+    "Swimming": {
+      "keywords": ["swim"],
+      "color": "#0A7E8C"
+    },
+    "Squash": {
+      "keywords": ["squash"],
+      "color": "#8B6914"
+    },
+    "Bouldering": {
+      "keywords": ["bouldering", "boulder", "climbing", "抱石"],
+      "color": "#8B4513"
+    }
+  }
+}
